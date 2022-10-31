@@ -1,2 +1,5 @@
 node_modules
 .vscode/*
+
+/config/.env
+todo-mvc-auth-local/config/.env
